@@ -6,6 +6,7 @@ add_subdirectory(third_party/Catch2)
 add_executable(
   Tester_cpp11
   Tester.cpp
+  functionTest.cpp
 )
 
 target_link_libraries(
