@@ -1,0 +1,6 @@
+[submodule "cpp11/third_party/Catch2"]
+	path = cpp11/third_party/Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "cpp03/third_party/Catch2"]
+	path = cpp03/third_party/Catch2
+	url = https://github.com/catchorg/Catch2.git
