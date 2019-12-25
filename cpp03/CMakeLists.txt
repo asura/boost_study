@@ -8,4 +8,5 @@ include_directories(
 add_executable(
   Tester_cpp03
   Tester.cpp
+  functionTest.cpp
 )
